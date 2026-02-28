@@ -1,8 +1,59 @@
-# React + Vite
+# 🛠️ Outfiro Admin Panel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Administrative Dashboard for Managing Outfiro Fashion E-Commerce Platform.
 
-Currently, two official plugins are available:
+🔗 **Live Admin Panel:** https://outfiroadmin.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🚀 About The Project
+
+Outfiro Admin Panel is a secure and modern dashboard designed to manage products, orders, and store operations for the Outfiro Fashion e-commerce website.
+
+It provides full control over product listings, order tracking, and business management in a clean and responsive interface.
+
+---
+
+## 🔐 Admin Features
+
+### 📦 Product Management
+- Add New Products
+- Upload Multiple Images (Cloudinary)
+- Set Categories & Sizes
+- Mark Products as Popular
+- Remove Products
+
+### 📋 Order Management
+- View All Orders
+- Update Order Status
+- Track Customer Orders
+- Monitor Payment Method (COD)
+
+### 🔒 Security
+- Admin Authentication
+- Protected Routes
+- Secure API Integration
+
+---
+
+## 🏗️ Tech Stack
+
+### 🌐 Frontend
+- React.js
+- React Router
+- Context API
+- Tailwind CSS
+- Axios
+
+### 🖥️ Backend Integration
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- Cloudinary
+- JWT Authentication
+
+### ☁ Deployment
+- Admin Frontend: Netlify
+- Backend API: Vercel
+- Database: MongoDB Atlas
